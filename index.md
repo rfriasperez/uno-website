@@ -1,3 +1,5 @@
+```markdown
+
 ## A Brief Intro...
 Our game Uno has the same rules as Uno card game to match either card, number, or color. There are also special cards that change the color of the card it is on, and cards to give extra cards to other players. The goal of the game is to get rid of all the cards, and the first player who gets rid of all their cards win!
 
@@ -22,7 +24,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
