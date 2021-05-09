@@ -1,5 +1,3 @@
-```markdown
-
 ## A Brief Intro...
 Our game Uno has the same rules as Uno card game to match either card, number, or color. There are also special cards that change the color of the card it is on, and cards to give extra cards to other players. The goal of the game is to get rid of all the cards, and the first player who gets rid of all their cards win!
 
@@ -15,7 +13,7 @@ While the structure of the whole game is similar to Uno, it also has some specia
 ## Installation Suggestions
 As we mentioned before, only one person in a group of four is required to download the game!
 
-
+```markdown
 You can use the [editor on GitHub](https://github.com/rfriasperez/uno-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
